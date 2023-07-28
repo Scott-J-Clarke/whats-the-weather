@@ -1,0 +1,9 @@
+.hidden {
+    display: none
+}
+
+.button {
+    background-color: skyblue;
+    color: white;
+    font-size: large;
+}

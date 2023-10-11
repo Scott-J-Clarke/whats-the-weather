@@ -19,7 +19,7 @@ Through making "What's the Weather?" I:
 
 ## Installation
 
- [See the scheduler online](https://scott-j-clarke.github.io/working-day-calendar/).
+ [See "What's the Weather?" online](https://scott-j-clarke.github.io/whats-the-weather/).
 
 ---
 
